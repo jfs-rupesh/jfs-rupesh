@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Distributed System Design**
 
-- 💬 Ask me about **Java,Spring,Computer Science,Gate Exam**
+- 💬 Ask me about **Java,Spring,Computer Science,Gate Exam ,ISRO CS **
 
 - 📫 How to reach me **rupshbarve17@gmail.com**
 
